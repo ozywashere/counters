@@ -190,7 +190,7 @@ body {
   width: 100%;
 }
 .counter {
-  max-width: 24rem;
+  max-width: 20rem;
   width: 100%;
   display: flex;
   align-items: flex-start;

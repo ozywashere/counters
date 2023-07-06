@@ -166,7 +166,6 @@ body {
 }
 .heading {
   width: 100%;
-
   text-align: center;
   margin-bottom: 6rem;
 }
@@ -191,7 +190,7 @@ body {
   width: 100%;
 }
 .counter {
-  max-width: 32rem;
+  max-width: 24rem;
   width: 100%;
   display: flex;
   align-items: flex-start;
